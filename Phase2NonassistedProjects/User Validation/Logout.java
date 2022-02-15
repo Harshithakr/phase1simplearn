@@ -21,7 +21,7 @@ public class Logout extends HttpServlet {
 //		Invalidate the session here
 		request.getSession().invalidate();
 		
-		out.println("<h2>You are now logged out...<br>");
+		out.println("<h2>You are now logged out....<br>");
 		
 		out.println("<a href='index.html'>Login again</a>");
 	}
