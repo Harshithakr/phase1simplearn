@@ -1,4 +1,4 @@
-package com.hari.training;
+package com.product;
 
 import javax.persistence.Column;
 import javax.persistence.GeneratedValue;
